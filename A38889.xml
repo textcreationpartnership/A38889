@@ -1,0 +1,487 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true account of the number, names, founders, and the years of foundation of all the publick schools in England with all the reputed academics and universites in the Christian world, viz. England, Scotland, Ireland, Bohemia, Denmark, France, Germany, Italy, Lithuania, Moravia, Poland, Prussia, Portugal, Spain, Sicily, Silesia, Sweden, Switzerland, and Transilvania.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38889</idno>
+            <idno type="STC">Wing E3608A</idno>
+            <idno type="STC">ESTC R36395</idno>
+            <idno type="EEBO-CITATION">15686977</idno>
+            <idno type="OCLC">ocm 15686977</idno>
+            <idno type="VID">104368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true account of the number, names, founders, and the years of foundation of all the publick schools in England with all the reputed academics and universites in the Christian world, viz. England, Scotland, Ireland, Bohemia, Denmark, France, Germany, Italy, Lithuania, Moravia, Poland, Prussia, Portugal, Spain, Sicily, Silesia, Sweden, Switzerland, and Transilvania.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and published by George Croom for J. Weld ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Universities and colleges --  Europe --  History.</term>
+               <term>Universities and colleges --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="catalogue_of_English_public_schools_and_European_universities">
+            <pb facs="tcp:104368:1" rendition="simple:additions"/>
+            <head>AN Exact and true Account, of the Number, Names, Founders, And The Years of Foundation, of all the Publick Schools in <hi>England;</hi> with all the reputed ACADEMIES and UNIVERSITIES In the Chriſtian World, <hi>viz. England, Scotland, Ireland, Bohemia, Denmark, France, Germany, Italy, Lithuania, Moravia, Poland, Pruſſia, Portugal, Spain, Sicily, Sileſia, Sweden, Switzerland</hi> and <hi>Tranſilvania.</hi>
+            </head>
+            <div type="part">
+               <head>Of the reputed <hi>Academies</hi> or <hi>Vniverſi<g ref="char:EOLhyphen"/>ties</hi> of <hi>Europe,</hi> and firſt of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+               </head>
+               <p>THERE are many Schools of good Literature in ſeveral Towns and Cities of <hi>England;</hi> The moſt Famous of theſe, are 8</p>
+               <p n="1">1. <hi>Eaton</hi> School, founded by King <hi>Henry</hi> the Sixth. 1441.</p>
+               <p n="2">2. <hi>Weſtminſter</hi> School, founded by Queen <hi>Elizabeth.</hi>
+               </p>
+               <p n="3">3. <hi>Wincheſter;</hi> by <hi>William</hi> of <hi>Wickham,</hi> Biſhop of <hi>Wincheſter.</hi> 1387.</p>
+               <p n="4">4. St. <hi>Pauls,</hi> of an old Ruined Houſe, built and Richly endowed by Dr. <hi>Collet,</hi> Dean of St. <hi>Pauls,</hi> for 153 poor Mens Children; for which there was appointed a Chief Maſter, Uſher and Chaplain, 1510. or 1512.</p>
+               <p n="5">5. <hi>Merchant Taylors,</hi> that Worſhipful Company and Corporation, Founded a School in the year 1561. in the Pariſh of St. <hi>Lawrence Poultney,</hi> ſome time the Houſe of the Duke of <hi>Bucks,</hi> called, <hi>The Manour of the Roſe;</hi> which Mr. <hi>Richard Hill</hi> purchaſed for 500 Pound, and beſtowed it for a Free School.</p>
+               <p n="6">6 <hi>Mercers Chappel,</hi> formerly an Hoſpital belonging to St. <hi>Thomas</hi> of <hi>Acon,</hi> was made a School the 25th: of <hi>Henry</hi> the VI. 1394.</p>
+               <p n="7">7. <hi>Chriſtchurch Hoſpital,</hi> Founded by King <hi>Edward</hi> the VI. 1552.</p>
+               <p n="8">8. The Free-School at St. <hi>Mary Overie</hi>'s in <hi>South<g ref="char:EOLhyphen"/>wark</hi> Founded by (or in the Reign of) Queen <hi>Elizabeth.</hi>
+               </p>
+               <p>In <hi>London,</hi> we have the <hi>Charter-houſe,</hi> Founded by Sir <hi>Walter Maney</hi> Kt. of the Garter to King <hi>Edward</hi> the III. who ſerved him in the <hi>French</hi> Wars. He firſt Built a Chappel there and a Monaſtery, for <hi>Carthuſian Friers,</hi> the moſt ſevere and Riged of all Cloyſteral Orders, called at firſt by the name of <hi>Salutation Inn.</hi> This <hi>Charter-houſe</hi> at the Suppreſſion of <hi>Abbeys</hi> had 642 Pound <hi>per Ann.</hi> a vaſt ſum in thoſe days: And this Demoliſhed place came afterward into the hands and poſſeſſion of <hi>Thomas</hi> Earl of <hi>Suffolk,</hi> Lord Treaſurer of <hi>England,</hi> in King <hi>James</hi> the I. his Reign, Now in regard the Houſe was ſweetly Scituated with Walks, Gardens, and other Conveniencies, it gave occaſion to <hi>Thomas Sutton</hi> of <hi>Caſtle-Camps</hi> in <hi>Cambridge-ſhier</hi> Eſq; though Born at <hi>Knayeh</hi> in <hi>Lincolnſhire,</hi> to alter his deſign of Erecting an Hoſpital at <hi>Hallingbury</hi> in <hi>Eſſex,</hi> and pur<g ref="char:EOLhyphen"/>chaſed this of the Earl aboveſaid, for the Sum of 13000 <hi>l.</hi> one penny, paid down before the Sealing of the Convey<g ref="char:EOLhyphen"/>ance; that in few years having raiſed up this goodly Structure, (though he died before it was compleated) and endowed it with ſeveral Manours in <hi>Lincolnſhier, Wiltſhier, Middleſex, Cambridge, Eſſex,</hi> and other large Revenues and Poſſeſſions; The Work was fini<g ref="char:EOLhyphen"/>ſhed, and called the Hoſpital of King <hi>James,</hi> conſiſting of a Maſter Governer, Preacher, a Free-School, Uſher, Eighty poor decayed Gentlemen, and forty Scholars: And 1614. the Monday next after <hi>Michaelmas</hi> day, the Captains, Gentlemen, and other Officers, entred into this new Hoſpital. You may read the Story at large in a Treatiſe publiſhed by <hi>Samuel Herne,</hi> Intituled <hi>Domus Carthruſiana:</hi> Or an account of the Foundation of the <hi>Charter-houſe.</hi>
+               </p>
+               <p>We have alſo near <hi>Cripplegate</hi> in <hi>London Sion College,</hi> fabricated by the care and induſtry of Mr, <hi>John Simpſon,</hi> Rector of St. <hi>Olaves Hart-street, London,</hi> one of the Executors of the laſt Will of <hi>Thomas White,</hi> D. D. Vicar of St. <hi>Dunſtans</hi> in the Weſt, and one of the Canons Reſidentiary of St, <hi>Pauls;</hi> who Bequeathed 3000 Pound to purchaſe and erect the ſaid College, for the uſe of the Clergy, and Alms-houſes for 20 poor People, ten Men, and ten Women. He gave 160 <hi>l.</hi> for ever to the College and Alms-houſe; whereof one hundred twenty Pound yearly to Maintain the poor Men and Women aforeſaid, and Forty pound <hi>per Ann.</hi> to defray the charges of four Dinners for the Clergy, who are to have four Latin Sermons Quarterly, and on theſe days to dine in the College. Mr. <hi>John Simpſon</hi> did at his own Charge, Build the Library, containing in length 121 foot, and breadth 25 and upward, being indifferently ſtored with Books of all ſorts of Learning.</p>
+               <p>Sir <hi>Thomas Greſham,</hi> in the year 1579. Queen <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> Royal Merchant or Agent, gave the one moity of the <hi>Royal Exchange,</hi> and the Buildings thereunto belonging, to the Mayor and Commons of London, and their Succeſſors, and the other to the Mercers, on this condition, that the Mayor and Aldermen find four able Perſons to read Lectures of Divinity, Aſtronomy Mu<g ref="char:EOLhyphen"/>ſick, and Geometry, within the Dwelling-houſe of Sir, <hi>Thomas Greſham</hi> in <hi>Biſhopſgate-ſtreet,</hi> Erected by him as an appendent to the <hi>Royal Exchange,</hi> and to beſtow 202 <hi>l. viz.</hi> 50 <hi>l. per Ann.</hi> on every Reader, and the <hi>Mercers</hi> to find three for Civil Law, Phyſick, and Re<g ref="char:EOLhyphen"/>torick, and allow them 50 <hi>l.</hi> a year <hi>stipend.</hi> they being to read every day in Term time, in the Morning in Latin, and in <hi>Engliſh</hi> in the Afternoon: The Muſick only to be read in Engliſh.</p>
+            </div>
+            <div type="part">
+               <head>The Academies Univerſities and Colleges of <hi>England, Scotland</hi> and <hi>Ireland.</hi>
+               </head>
+               <p>THey are call'd Academies from a ſhady Grove of <hi>Academus</hi> a Noble <hi>Athenian,</hi> about a Mile from <hi>Athens,</hi> where <hi>Plato</hi> and <hi>Zenocrates,</hi> and other Philo<g ref="char:EOLhyphen"/>ſophers retired for the Study of the Sciences of Later Times. They have been ſtiled Univerſities <hi>a Profeſſione <g ref="char:V">Ʋ</g>niverſalium Scientiarum &amp; artium Liberalium.</hi>
+               </p>
+               <p n="1">1 Of theſe<g ref="char:punc">▪</g> there are two famous, <hi>Oxford</hi> and <hi>Cambridge. Oxford,</hi> ques <hi>Ousford, Iſidis radum,</hi> the name of the Chief River whereod it is Seated, or perhaps from <hi>Bovis vadum,</hi> a foard for Oxen, as <hi>Thracius Boſt<g ref="char:EOLhyphen"/>homs</hi> is by the <hi>Germans</hi> termed <hi>Ochenfort.</hi> It was much Augmented by <hi>Alfred</hi> the <hi>Saxon</hi> King<g ref="char:punc">▪</g> though not Founded by him, in the year 880.</p>
+               <p n="2">2 <hi>Cambridge,</hi> ſo named from a Bridge built over the River <hi>Cam,</hi> Anciently reported to be built by <hi>Cantaber</hi> a <hi>Spaniard,</hi> 375 years before <hi>Chriſt;</hi> repair'd by <hi>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bert</hi> about the year 630. defac'd by the <hi>Danes,</hi> and reſtored by the <hi>Normans</hi> It began to be an Univrrſity under <hi>Henry</hi> the I. 1109.</p>
+               <p>Theſe two Learned Siſters, may equal moſt, if not all the Academies beyond Sea: They have each of them a Chancellor and High-Steward, who is always a Perſon of great Quality, Govern'd by a Vice-chancellor and two Proctors apiece. The Heads or chief Governors in <hi>Oxford</hi> are diſtinguiſhed by ſix ſeveral Titles. 1. Preſident. 2 Maſter. 3. Warden. 4. Provoſt. 5. Dean. 6. Princlpal In <hi>Cambridge</hi> they are all ſtiled Maſters, <hi>Kings College</hi> excepted, whoſe Title is Provoſt. In <hi>Oxford</hi> the time of taking Degrees in the Arts and Sciences, is called The <hi>Act;</hi> (which is always the <hi>Monday</hi> after the ſixth of <hi>July</hi>) and in <hi>Cambridge,</hi> the <hi>Commencement;</hi> which is always the firſt <hi>Tueſday</hi> in <hi>July.</hi> The Publick Library in <hi>Oxford,</hi> Built by Sir <hi>Thomas Bodley,</hi> with the Addition of <hi>Selden</hi>'s is the moſt Noble Collection of Books in the World. <hi>Cambridge</hi> hath likwiſe a gooodly Publick Library.</p>
+            </div>
+            <div type="part">
+               <head>In <hi>Oxford</hi> there are 18 Colleges and 7 Halls with the Names of their Heads in the Margin.</head>
+               <p>
+                  <note place="margin">Maſter.</note>1 <hi>
+                     <g ref="char:V">Ʋ</g>niverſity College,</hi> Founded by <hi>Alford,</hi> King of the <hi>West Sax<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns,</hi> by this Name. 883. but firſt Endowed by <hi>Gulielmus Dunelmen<g ref="char:EOLhyphen"/>ſis,</hi> 1249.</p>
+               <p>
+                  <note place="margin">Maſter.</note>2 <hi>Baliol,</hi> by <hi>John Baliol</hi> and his Wife <hi>Devor<g ref="char:EOLhyphen"/>gilla,</hi> Parents of <hi>John Baliol,</hi> King of <hi>Scots,</hi> 1268.</p>
+               <p>
+                  <note place="margin">Warden.</note>3 <hi>Merton,</hi> by <hi>Walter de Merton</hi> Lord Chan<g ref="char:EOLhyphen"/>cellor of <hi>England,</hi> Biſhop of <hi>Rocheſtor,</hi> 1274</p>
+               <p>
+                  <note place="margin">Rector.</note>4 <hi>Exeter,</hi> by <hi>Walther Stapleton,</hi> Biſhop of <hi>Exon.</hi> 1316.</p>
+               <p>
+                  <note place="margin">Provorſt.</note>5 <hi>Orial College,</hi> by <hi>Edward</hi> the II. by the Procurement of <hi>Adam de Brome,</hi> his Almoner, 1324. <hi>Edward the</hi> III. added a large Houſe, call'd <hi>Le Orial,</hi> 1327. which gave Name to the College ſince.</p>
+               <p>
+                  <note place="margin">Provorſt.</note>6 <hi>Queens College.</hi> By <hi>Robert Eglesfeild,</hi> Chaplian to Queen <hi>Philippa,</hi> Wife of <hi>Edward</hi> the III. in the year 1340. And by this name recommended to this Queen, and the Queens of <hi>England</hi> Succeſſively; they are Summoned to Dinner and Supper by ſound of Trumpet.</p>
+               <p>
+                  <note place="margin">Warden.</note>7 <hi>New College.</hi> By <hi>William</hi> of <hi>Wickham</hi> Ep. of <hi>Wincheſter</hi> and Chancellor of <hi>Engl.</hi> 1386.</p>
+               <p>
+                  <note place="margin">Rector.</note>8 <hi>Lincoln.</hi> By <hi>Richard Fleming,</hi> Biſhop of <hi>Lincoln.</hi> 1430. and <hi>Thomas</hi> of <hi>Rotherham,</hi> Biſhop of <hi>Lincoln,</hi> afterward Arch-biſhop of <hi>York</hi> and Chancellor, 1575.</p>
+               <p>
+                  <note place="margin">Warden.</note>9 <hi>All-Souls.</hi> By <hi>Henry Chichely</hi> Arch biſhop of <hi>Canterbury,</hi> 1437.</p>
+               <p>
+                  <note place="margin">Preſident.</note>10 <hi>Magdalen.</hi> By <hi>William Wainfleet,</hi> Biſhop of <hi>Wincheſter,</hi> and Chancellor of <hi>England,</hi> 1459. and Dedicated to St. <hi>Mary Magdalen.</hi>
+               </p>
+               <p>
+                  <note place="margin">Principal.</note>11 <hi>Brazen-noſe.</hi> By <hi>William Smith</hi> Biſhop of <hi>Lincoln.</hi> 1513. And perfected after his Death by Sir <hi>Richard Sutten</hi> Kt. 1522. by the ſame Name.</p>
+               <p>
+                  <note place="margin">Preſedent</note>12 <hi>Corpus Chriſti.</hi> By <hi>Richard Fox,</hi> Biſhop of <hi>Winchestor,</hi> 1516.</p>
+               <p>
+                  <note place="margin">Dean.</note>13 <hi>Christ-Church.</hi> By <hi>Thomas Wolſey,</hi> Car<g ref="char:EOLhyphen"/>dinal, 1525. but he falling into Diſgrace with <hi>Henry</hi> VIII. this was Forfeited to the King, who reſtor'd to it its Poſſeſſions, and added the Biſhops See thereto 1546.</p>
+               <p>
+                  <note place="margin">Preſident.</note>14 <hi>Trinity,</hi> by Sir <hi>Thomas Pope,</hi> 1556. who Dedicated it to the Bleſſed <hi>Trinity.</hi>
+               </p>
+               <p>
+                  <note place="margin">Preſident.</note>15 St. <hi>John</hi>'s, by Sir <hi>Thomas White,</hi> Lord Mayor of <hi>London,</hi> 1557. and much Enlar<g ref="char:EOLhyphen"/>ged by <hi>William Laud,</hi> Arch biſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> 1635.</p>
+               <p>
+                  <note place="margin">Principal.</note>16 <hi>Jeſus,</hi> by the care of <hi>Hugh Price,</hi> Dr. of the Civil Law, 1572. and Inſtituted by Queen <hi>Elizabeth.</hi>
+               </p>
+               <p>
+                  <note place="margin">Warden.</note>17 <hi>Wadham,</hi> by <hi>Nicholas Wadham,</hi> Eſq; and <hi>Dorothy</hi> his Wife. 1613.</p>
+               <p n="18">18 <hi>Pembroke,</hi> (firſt known by the name of <hi>Broadgate Hall;</hi>) Founded by <hi>Thomas Tiſeale</hi> Eſq; and <hi>Richard Whitwick, S. T. B.</hi> So Named in honour of <hi>William</hi> Earl of <hi>Pembroke,</hi> then Chancellor of <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the 7 Halls in <hi>Oxford.</hi>
+               </head>
+               <p n="1">
+                  <note place="margin">All stiled <hi>Principals</hi> that follow.</note>1 <hi>Glouceſter Hall,</hi> a diſſolved Monaſtery, but reſtored by Sir <hi>Thomas White</hi> 1560.</p>
+               <p n="2">2 <hi>Hart-Hall,</hi> by <hi>Walter Stapleton,</hi> Biſhop of <hi>Exeter,</hi> about 1314.</p>
+               <p n="3">3. <hi>Alban Hall,</hi> call'd ſo from the Monks of St. <hi>Albans</hi> who Studied there, 1300.</p>
+               <p n="4">4 <hi>Edmond Hall,</hi> called ſo in honour of St. <hi>Edmond,</hi> Arch-Biſhop of <hi>Canterbury.</hi>
+               </p>
+               <p n="5">5 St. <hi>Mary Hall,</hi> Founded by <hi>Edward</hi> II. 1325.</p>
+               <p n="6">6 <hi>New-Inn Hall,</hi> formerly <hi>Trilleck-Inn,</hi> from the <hi>Trillecks,</hi> Owners thereof, 13600.</p>
+               <p n="7">7 <hi>Magdalen Hall,</hi> by <hi>William</hi> of <hi>Wainfleet,</hi> Biſhop of <hi>Wincheſter,</hi> 1480.</p>
+            </div>
+            <div type="part">
+               <head>The univerſity of <hi>Cambridge</hi> contains 16 Colleges and 4 Halls.</head>
+               <p n="1">1 St. <hi>Peter</hi>'s College or Houſe, Founded by <hi>Hugh Balſham,</hi> Biſhop of <hi>Ely,</hi> 1280.</p>
+               <p n="2">2 <hi>Clare Hall,</hi> by <hi>Richard Badew,</hi> Chancellor of the Univerſity, 1326. Firſt by the name of <hi>
+                     <g ref="char:V">Ʋ</g>niverſity-Hall:</hi> And afterward, <hi>Elizabeth,</hi> Counteſs of <hi>Clare,</hi> by permiſſion from <hi>Edward</hi> the I. finiſhed it, deſiring it might bear that name, in memory of her Family.</p>
+               <p n="3">3 <hi>Pembroke-Hall, Mary de St. Paul,</hi> Counteſs of <hi>Pembroke,</hi> Daughter of <hi>Guido Chaſtillion,</hi> Earl of <hi>St. Paul</hi> in <hi>France,</hi> Founded it 1343. by the name of the College of <hi>Mary Valence;</hi> afterward named <hi>Pembroke-Hall.</hi>
+               </p>
+               <p n="4">4 <hi>Corpus Chriſti. Henry</hi> Duke of <hi>Lancaſter</hi> was the Honorary Founder, but Built by the Guides of <hi>Corpus Chriſti</hi> and of the <hi>Virgin Mary,</hi> United, 1344. but ſince much Enlarged,</p>
+               <p n="5">5 <hi>Trinity Hal<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> by <hi>William Bateman,</hi> Biſhop of <hi>Norwich,</hi> 1347.</p>
+               <p n="6">6 <hi>Gonvil</hi> and <hi>Caius,</hi> by <hi>Edmond Gonvil,</hi> Parſon of <hi>Torrington</hi> in <hi>Norfolk</hi> 1348 and after <hi>John Caius,</hi> Dr. of Phyſick, 1557. was made Co-founder, by Letters Patents, who impoſed on it this Name.</p>
+               <p n="7">7 <hi>King</hi>'s <hi>College,</hi> Founded by <hi>Henry</hi> the VI 1441.</p>
+               <p n="8">8 <hi>Queens Col<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ege.</hi> Q<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>een <hi>Margaret,</hi> Wife of King <hi>Henry</hi> the VI. laid the Foundation, 1448. but Queen <hi>Elizabeth</hi> Wife to <hi>Edward</hi> the IV. perfected it.</p>
+               <p n="9">9 <hi>Katharine Hall,</hi> by <hi>Robert Woodlarker,</hi> Chancellor of <hi>Cambridge,</hi> 1475. and ſince that, enlarged by many Benefactors.</p>
+               <p n="10">10 <hi>Jeſus,</hi> by <hi>John Alcolk,</hi> Biſhop of <hi>Ely,</hi> and Lord Chancellor of <hi>England,</hi> 1496.</p>
+               <p n="11">11 <hi>Cbriſt College,</hi> firſt begun by <hi>Henry</hi> the VI and known by the name of <hi>God</hi>'s <hi>Houſe;</hi> and after his Death much enlarged; finiſhed by <hi>Margaret,</hi> Counteſs of <hi>Richmond,</hi> the Mother of King <hi>Henry</hi> the VII. who gave it the name it now beareth. 1505.</p>
+               <p n="12">12 St. <hi>John</hi>'s, by <hi>Margaret</hi> Counteſs of <hi>Richmond,</hi> 1508. but ſince her time, very much amplified and enlarged.</p>
+               <p n="13">13 <hi>Magdalen,</hi> by <hi>Edward Stafford,</hi> Duke of <hi>Bucking<g ref="char:EOLhyphen"/>ham</hi> 1519. but Finiſhed by <hi>Thomas</hi> Lord <hi>Audly,</hi> 1515.</p>
+               <p n="14">14 <hi>Trinity College,</hi> Founded by <hi>Henry</hi> the VIII. 1546. Since whoſe Reign it hath been very much improved.</p>
+               <p n="15">15 <hi>Emanuel,</hi> by Sir <hi>Walter Mildmay,</hi> one of the Privy Council to Queen <hi>Elizabeth,</hi> who obtain'd Licence of the Queen to erect it, 1584 ſince much enlarged by ſeveral other Benefactors.</p>
+               <p n="16">16 <hi>Sidney Suſſe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> by <hi>Fra<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ces Sidney</hi> Counteſs of <hi>Suſſex,</hi> (Aunt to the Renowned and Learned Souldier Sir <hi>Philip Sidney</hi>) who Founded it by his Name, 1598.</p>
+            </div>
+            <div type="part">
+               <head>The Univerſities of <hi>Scotland</hi> are 4.</head>
+               <p n="1">1 St. <hi>Andrews,</hi> the chief Town of <hi>Fife,</hi> (an Arch<g ref="char:EOLhyphen"/>Biſhops See) was Founded by <hi>Henry Wardlaw,</hi> 1412.</p>
+               <p n="2">2 <hi>Glaſcow,</hi> Founded by <hi>William Turnbull,</hi> Biſhop of <hi>Glaſcow,</hi> in the Reign of <hi>James</hi> the II. by a Bull from Pope <hi>Nicolas</hi> the V. about 1453.</p>
+               <p n="3">3 <hi>Aberdeen</hi> was made an Univerſity 1494. by the Intercaſion or King <hi>James</hi> the II. and <hi>William El<g ref="char:EOLhyphen"/>phingſton,</hi> who procur'd from Pope <hi>Alexander</hi> the VI. the privilege of an Univerſity.</p>
+               <p n="4">4 <hi>Edinburgh</hi> was made an Univerſity by King <hi>James</hi> the VI. 1580.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Ireland</hi> hath but one <hi>Vniverſity.</hi>
+               </head>
+               <p>IN <hi>Dublin</hi> or <hi>Divelin,</hi> is a Beautiful College, Conſe<g ref="char:EOLhyphen"/>crated to the <hi>Holy Trinity,</hi> which the Famous and Renowned Queen <hi>Elizabtth</hi> of Bleſſed Memory, endow<g ref="char:EOLhyphen"/>ed with the privilege of an Univerſity, and furniſhed with a very good compleat Library of Books, of all ſorts for Learning. 1492.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Bohemia</hi> hath but one <hi>Vniverſity.</hi>
+               </head>
+               <p n="1">1 <hi>PRague</hi> was made an Univerſity 1360 by the Em<g ref="char:EOLhyphen"/>peror <hi>Charles</hi> the IV. It is reported, that in the year 1409. there <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere above 40000 Scholars under the Rectorſhip of <hi>John Hus.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The <hi>Vniverſities</hi> in <hi>Denmark</hi> are two.</head>
+               <p n="1">1 <hi>COpenhagen,</hi> Inſtituted by <hi>Christian,</hi> Earl of <hi>Ol<g ref="char:EOLhyphen"/>denburgh,</hi> 1478. who obtain'd of Pope <hi>Sixtus</hi> the IV. the Privileges of <hi>Bononia</hi> for it; after that, it was enlarged by <hi>Christian</hi> the III. 1498. and laſtly by <hi>Frederick</hi> the II. 1549.</p>
+               <p n="2">2 <hi>Sore,</hi> made an Univerſity by <hi>Chriſtian</hi> the IV. 1623.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>Vniverſities</hi> of <hi>France</hi> are 27.</head>
+               <p n="1">1 <hi>ANgers</hi> was Founded by <hi>Lewis</hi> Duke of <hi>Anjou,</hi> and King of <hi>Sicily</hi> and Naples, 1346.</p>
+               <p n="2">2 <hi>Aix,</hi> firſt permitted by a Bull of Pope <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> the V. and afterwards reſtored by <hi>Henry</hi> the IV. 1603.</p>
+               <p n="3">3 <hi>Arles</hi> an Ancient City the Seat Royal of the French Kings of <hi>Burgundy,</hi> and gave Name to the Kingdom of <hi>Arles:</hi> But of late an Univerſity.</p>
+               <p n="4">4 <hi>Avignon,</hi> formerly the Reſidence of ſome of the Popes, was made an Univerſity 1303. by Pope <hi>Boni<g ref="char:EOLhyphen"/>face</hi> the VIII.</p>
+               <p n="5">5 <hi>Beſanſon,</hi> the Metropolis of <hi>Franch Comte</hi> Inſtitu<g ref="char:EOLhyphen"/>ted by Cardinal <hi>Perenot Granvet,</hi> in the Popedom of <hi>Julius</hi> the III. and Reign of the Emperor <hi>Charles</hi> the V.</p>
+               <p n="6">6 <hi>Bourdeaux</hi> was Founded in the time of <hi>Lewis</hi> XI. by Authority from Pope <hi>Eugenius,</hi> about the year 1474.</p>
+               <p n="7">7 <hi>Bourges,</hi> one of the beſt Univerſities in <hi>France</hi> for the Study of the Civil Law; firſt Founded by St. <hi>Lewis</hi> the IX. and afterwards finiſhed by <hi>Charles</hi> Duke of <hi>Berrie,</hi> Brother of <hi>Lewis</hi> the XI. 1465.</p>
+               <p n="8">8 <hi>Caen</hi> in <hi>Normandy</hi> was made an Univerſity by <hi>Henry</hi> the V. King of <hi>England,</hi> in honour of his Victo<g ref="char:EOLhyphen"/>rious Exploits at that time in <hi>France,</hi> 1418.</p>
+               <p n="9">9 <hi>Cahors</hi> about the year 1332. Confirmed by Pope <hi>John</hi> the XXII.</p>
+               <p n="10">10 <hi>Dole,</hi> 1426. by <hi>Philip</hi> Duke of <hi>Burgundy.</hi>
+               </p>
+               <p n="11">11 <hi>La-Flache,</hi> Founded by <hi>Henry</hi> the IV. a College of <hi>Jeſuits.</hi>
+               </p>
+               <p n="12">12 <hi>Montpellier</hi> an Ancient Univerſity, famous for the ſtudy of Phyſick, was Confirmed by Authoriuy of Pope <hi>Nicholas</hi> the IV. and Patents of King <hi>Philip</hi> the Fair 1289.</p>
+               <p n="13">13 <hi>Montauban</hi> of late Erection.</p>
+               <p n="14">14 <hi>Nants</hi> about 1460.</p>
+               <p n="15">15 <hi>Niſm<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> of late Foundation.</p>
+               <p n="16">16 <hi>Orange,</hi> founded 1365.</p>
+               <p n="17">17 <hi>Orleans</hi> was Founded by <hi>Philip</hi> the Fair 1312. in the Popedom of <hi>Clement</hi> the V.</p>
+               <p n="18">18 <hi>Paris.</hi> the firſt and moſt Famous Academy of all <hi>France,</hi> was Inſtituted by the Emperor <hi>Charles</hi> the Great, at the inſtigation and requeſt of <hi>Alcuinus,</hi> an <hi>Engliſh</hi> Man, whoſe Scholar he had been, 791. or thereabout. Colleges there were none, till about 1304. <hi>Joan</hi> Queen of <hi>Navar</hi> and Wife of <hi>Philip</hi> the Fair, Built a College called after her own Name, <hi>Navarre.</hi> There are now about 50 Colleges, among which, that of <hi>Navarre, Sorbonne</hi> an <hi>Claimont</hi> are the moſt Famous.</p>
+               <p n="19">19 <hi>Perpignan,</hi> Built by <hi>Peter King</hi> of <hi>Arragon,</hi> 1349.</p>
+               <p n="20">20 <hi>Potters,</hi> famous for the profeſſion of the Civil Law, was Founded by <hi>Charles</hi> the VII. 1431.</p>
+               <p n="21">21 <hi>Pont a mouſon,</hi> in 1573. by <hi>Charles</hi> Cardinal of <hi>Lorrain.</hi>
+               </p>
+               <p n="22">22 <hi>Rheims</hi> by <hi>Charles</hi> Cardinal of <hi>Lorrain,</hi> 1548. Arch-Biſhop and Duke of <hi>Rheims.</hi>
+               </p>
+               <p n="23">23 <hi>Richleu,</hi> by Cardinal <hi>Richleu,</hi> in the Reign of <hi>Lewis</hi> the XIII. 1640.</p>
+               <p n="24">24 <hi>Soiſions</hi> of late Erection.</p>
+               <p n="25">25 <hi>Tholouſe,</hi> the moſt Ancient next to <hi>Paris,</hi> was Founded by St. <hi>Lewis,</hi> 1230. by Authority from Pope <hi>Gregory</hi> the IX.</p>
+               <p n="26">26 <hi>Toumon,</hi> by <hi>Francis</hi> Lord <hi>Toumon,</hi>
+               </p>
+               <p n="27">27 <hi>Valence</hi> a City in <hi>Dauphine.</hi> Founded in 1452. by <hi>Lewis</hi> the XI. then Dauphin.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>Vniverſities</hi> of High <hi>Germany,</hi> 27.</head>
+               <p n="1">1 <hi>ALtorff</hi> by the Magiſtrates of <hi>Nuremberg,</hi> 1577. <hi>Ferdinand</hi> the II. being Emperor.</p>
+               <p n="2">2 <hi>Colen,</hi> Inſtituted by Pope <hi>
+                     <g ref="char:V">Ʋ</g>rban</hi> the VI. at the Inſtance of the Senate and People, 1388.</p>
+               <p n="3">3 <hi>Dillinghen,</hi> Founded by <hi>Otto Truches</hi> Cardinal and Biſhop of <hi>Augsburgh</hi> and Protector of <hi>Germany,</hi> at his own Expence and Charge, 1549.</p>
+               <p n="4">4 <hi>Erfurt,</hi> begun by <hi>Dagobert</hi> King of the <hi>Franks,</hi> and was Confirm'd by Pope <hi>Boniface</hi> the IX. 1392.</p>
+               <p n="5">5 <hi>Fraunckfort</hi> upon <hi>Oder,</hi> was Erected by <hi>Joachim</hi> Marqueſs of <hi>Brandenburgh,</hi> 1506.</p>
+               <p n="6">6 <hi>Friburgh</hi> in <hi>Briſgow,</hi> made an Univerſity by <hi>Al<g ref="char:EOLhyphen"/>brrt,</hi> Arch-Duke of <hi>Auſtria,</hi> 1460. and was much en<g ref="char:EOLhyphen"/>dowed with Privileges. by <hi>Frederick</hi> the Emperor.</p>
+               <p n="7">7 <hi>Gieſſen,</hi> Founded 1607. by <hi>Lovis Landgrave</hi> of <hi>Heſſe,</hi> Tranſlated to <hi>Marpurg,</hi> 1627.</p>
+               <p n="8">8 <hi>Gratz.</hi> of late Foundation.</p>
+               <p n="9">9 <hi>Gripſwaldt</hi> was Founded in the year 1456. by <hi>
+                     <g ref="char:V">Ʋ</g>ratis Laus,</hi> Duke of <hi>Pomerania.</hi>
+               </p>
+               <p n="10">10 <hi>Heidelberg,</hi> Erected by <hi>Rupert</hi> the XI. Count Palatine of the <hi>Rhine,</hi> 1346. encreaſed in Revenues by <hi>Frederick</hi> Count Palatine, 1576.</p>
+               <p n="11">11 <hi>Helmſtat,</hi> called <hi>Julia,</hi> from <hi>Julius</hi> Duke of <hi>Brunſwick</hi> that founded it 1576.</p>
+               <p n="12">12 <hi>Jena,</hi> begun 1548. by <hi>John Frederick,</hi> Elector of <hi>Saxony;</hi> and Confirmed by the Emperor <hi>Ferdinand,</hi> 1558.</p>
+               <p n="13">13 <hi>Ingoldſtat,</hi> Inſtituted by <hi>Lovis,</hi> Duke of <hi>Bava<g ref="char:EOLhyphen"/>ria,</hi> 1472.</p>
+               <p n="14">14 <hi>Kiel,</hi> Inſtituted by <hi>Albert</hi> Duke of <hi>Hoſtein</hi> 1669.</p>
+               <p n="15">15 <hi>Lawingen,</hi> by <hi>Wolfgang,</hi> Count Prlatine, in the Reign of the Emperor <hi>Ferdinand</hi> the I.</p>
+               <p n="16">16 <hi>Leige,</hi> wherein were found Students at once, (as 'tis Recorded in hiſtory) the Sons of 9 Kings 24 Dukes, 29 Earls, beſide the the Barons and Gentlemen. But I ſuppoſe they took in the Chapter of St. <hi>Lambert</hi> to make up their account.</p>
+               <p n="17">17 <hi>Lipſigh,</hi> was Founded in the year 1409. by <hi>Fre<g ref="char:EOLhyphen"/>derick</hi> the I. Elector of <hi>Saxany,</hi> upon a Quarrel <hi>Auſen</hi> between the <hi>Germans</hi> and <hi>Bohemians</hi> at <hi>Prague.</hi>
+               </p>
+               <p n="18">18 <hi>Marpurgh</hi> Inſtituted by <hi>Philip Landgrave</hi> of <hi>Heſſe</hi> 1526. and Confirmed by rhe Emperour <hi>Charles</hi> the V.</p>
+               <p n="19">19 <hi>Meniz,</hi> Founded By <hi>Diothetrus</hi> of <hi>Iſſenburgh,</hi> Arch biſhop of <hi>Mentz,</hi> 1482.</p>
+               <p n="20">20 <hi>Paderborn,</hi> was founded 1532. <hi>Thedore de Fur<g ref="char:EOLhyphen"/>ſtenberg,</hi> being then Biſhop there.</p>
+               <p n="21">21 <hi>Rhinthel</hi> was made an Univerſity 1529. <hi>Ferdin<g ref="char:EOLhyphen"/>and</hi> the II. being Emperor.</p>
+               <p n="22">22. <hi>Rostoch,</hi> Founded by <hi>John</hi> and <hi>Abert</hi> Dukes of <hi>Mecklenbergh,</hi> 1419.</p>
+               <p n="23">23 <hi>Sigen,</hi> alias <hi>Herborn,</hi> in the year 1589. by <hi>John</hi> Count <hi>Naſſau.</hi>
+               </p>
+               <p n="24">24 <hi>Strasburgh,</hi> begun 1568. Enlarged with ample Privileges, by the Emperor <hi>Fredorick</hi> the II. 1621.</p>
+               <p n="25">25 <hi>Trier</hi> a very Ancient Univerſity, but ſome be<g ref="char:EOLhyphen"/>gin it not till 1558.</p>
+               <p n="26">26 <hi>Tubing,</hi> Founded by <hi>Eberhard</hi> Count <hi>Wittem<g ref="char:EOLhyphen"/>berg,</hi> in the year 1477.</p>
+               <p n="27">27. <hi>Vienna,</hi> firſt Founded by the Emperor <hi>Frederick</hi> the II. about the year 1237. afterwards eſtabliſhed with more Privileges by Pope <hi>
+                     <g ref="char:V">Ʋ</g>rban</hi> 1365. It hath received great Encouragement from the Arch-Dukes of <hi>Auſtria.</hi>
+               </p>
+               <p n="28">28 <hi>Wirtzburgh,</hi> was Founded by <hi>John</hi> Biſhop thereof, 1403.</p>
+               <p n="29">29. <hi>Wittcmbergh</hi> was Founded by <hi>Frederick</hi> the III. Elector of <hi>Saxony,</hi> 1502.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>Vniverſities</hi> of Low-<hi>Germany</hi> are 8.</head>
+               <p n="1">1 <hi>DOway,</hi> was ffounded by <hi>Philip</hi> the II. King of <hi>Spain,</hi> 1562. It is an <hi>Engliſh</hi> Seminary.</p>
+               <p n="2">2 <hi>Groninghen</hi> was made an Univerſity 1644.</p>
+               <p n="3">3 <hi>Franeker,</hi> Eſtabliſhed by the States of <hi>Weſt Frize<g ref="char:EOLhyphen"/>land</hi> 1581.</p>
+               <p n="4">4 <hi>Harderwick,</hi> founded in the year 1648.</p>
+               <p n="5">5 <hi>Leyden,</hi> by the States of <hi>Holland</hi> and <hi>William</hi> Prince of <hi>Orange,</hi> 1575.</p>
+               <p n="6">6 <hi>Louvain</hi> hath flouriſhed ever ſince the year 926. but Was not made an Univerſity, till about the year 1426. <hi>John</hi> Duke of <hi>Bravant</hi> beſtowed goeat Privi<g ref="char:EOLhyphen"/>leges upon it, which were Confirmed by the Popes <hi>Martin</hi> the V. and <hi>Eugenius</hi> the IV. There are 43 Colleges; of which <hi>Caſtrum, Falco</hi> and <hi>Porcus</hi> are of greateſt Note.</p>
+               <p n="7">7 <hi>Namur.</hi>
+               </p>
+               <p n="8">8 <hi>
+                     <g ref="char:V">Ʋ</g>trecht</hi> was Founded 1636.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>Vniverſities</hi> of <hi>Italy</hi> are 15.</head>
+               <p>
+                  <hi>BOnonia</hi> a moſt Ancient Univerſity, Founded as ſome pretend, in the Reign of the Emperor <hi>Theodoſius Irnerius;</hi> publickly read here the Imperial Law about 1150.</p>
+               <p n="2">2 <hi>Ferrara,</hi> made an Univerſity 1392. by <hi>Albertus</hi> Duke of <hi>Ferrara.</hi>
+               </p>
+               <p n="3">3 <hi>Florence,</hi> begun by <hi>Coſmo de Medici,</hi> and aftet<g ref="char:EOLhyphen"/>wards perfected by <hi>Lawrence de Medici,</hi> his Son's Son.</p>
+               <p n="4">4 <hi>Macerala,</hi> Erected by Pope <hi>Paul</hi> the III.</p>
+               <p n="5">5 <hi>Mantua.</hi> of late Erection.</p>
+               <p n="6">6 <hi>Millain</hi> is an Ancient Univerſity, where have have flouriſhed very Learned Men.</p>
+               <p n="7">7 <hi>Naples</hi> was made an Univerſity by the Emperor <hi>Frederick</hi> the I. 1239. after which it went to Decay but about tow hundred Years after; it was Reſtored by <hi>Alphonſus</hi> King of <hi>Arragon.</hi>
+               </p>
+               <p n="8">8 <hi>Padua</hi> was firſt inſtituted in the year 791. by <hi>Charles</hi> the Great, as ſome ſay, but it ows its beſt Eſtabliſhment to the Emperor <hi>Frederick</hi> the II. 1222.</p>
+               <p n="9">9 <hi>Pavia</hi> made a Univerſity by the Emperor <hi>Charles</hi> the IV. in the year 1361.</p>
+               <p n="10">10 <hi>Perugia,</hi> 1290. Confirmed by Pope <hi>Clement</hi> V.</p>
+               <p n="11">11 <hi>Piſa,</hi> Inſtituted about the year 1339. Reſtored by <hi>Coſmo de Medici,</hi> and after that, ſo much Adorn'd by his Grand-Son <hi>Lawrence de Medici,</hi> that moſt Per<g ref="char:EOLhyphen"/>ſons eſteem him the Founder.</p>
+               <p n="12">12 <hi>Rome</hi> was Founded by <hi>
+                     <g ref="char:V">Ʋ</g>rban</hi> the IV. at whoſe Requeſt, <hi>Thomas Aquinas</hi> Profeſſed here: There is only one College called <hi>Di Sapienza,</hi> where Degrees are given.</p>
+               <p n="13">13 <hi>Salerne,</hi> under <hi>Frederick</hi> the II. Emperor.</p>
+               <p n="14">14 <hi>Sinna</hi> was Founded by the City of <hi>Sienna</hi> in the year 1387.</p>
+               <p n="15">15 <hi>Turin</hi> was Founded 1405.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Lithuania</hi> hath but one <hi>Vniverſity.</hi>
+               </head>
+               <p n="1">1 <hi>VIlna,</hi> Founded about 1579. The Privileges granted to this Univerſity were confirmed by the <hi>Diet</hi> of <hi>Poland,</hi> 1676.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Moravia</hi> hath but one <hi>Vniverſity.</hi>
+               </head>
+               <p>
+                  <hi>OLmutz,</hi> a fair, ample City of <hi>Moravia;</hi> the Univer<g ref="char:EOLhyphen"/>ſity here ſeems to be of a late Foundation, (as far as Writers inform) ſince the Jeſuits Arrival there, for whom there was Erected a magnificent College, at the ſole Expence and Charge of the Pope. The year is not certainly known.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Poland</hi> hath but one <hi>Vniverſity.</hi>
+               </head>
+               <p n="1">1 <hi>CRacovia,</hi> the Metropolis, or Head City of <hi>Poland</hi> an Univerſity was here founded, by <hi>Caſimire</hi> the II. in the year 1361. and in the year 1400. was by <hi>
+                     <g ref="char:V">Ʋ</g>ladiſlaus.</hi> at the Interceſſion of <hi>Hedvigis,</hi> his Queen, Ratifi'd and Confirm'd by the <hi>Pope,</hi> call'd <hi>Caſi<g ref="char:EOLhyphen"/>mira,</hi> from the Founder. There are here two goodly Colleges; in the one they profeſs Phyloſophy and Divi<g ref="char:EOLhyphen"/>nity, and in the other, Phyſick and Civil Law; though other Arts are here profeſſed.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Pruſſia</hi> hath 2 <hi>Vniverſities.</hi>
+               </head>
+               <p>
+                  <hi>COninberg,</hi> (alias <hi>R<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>giomont</hi>) the Metropolis of the great Dukedom of <hi>Pruſſia,</hi> inſtituted by <hi>Albertus,</hi> Marqueſs of <hi>Brandenburg,</hi> 1544.</p>
+               <p n="2">2 <hi>Dantzik.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Portugal</hi> hath 3 <hi>Vniverſities.</hi>
+               </head>
+               <p n="1">1 <hi>COimbra,</hi> Built by <hi>John</hi> the III. King of <hi>Portu<g ref="char:EOLhyphen"/>gal.</hi>
+               </p>
+               <p n="2">2 <hi>Evora,</hi> Inſtituted by <hi>Henry</hi> King and Cardinal of <hi>Portugal</hi> and Biſhop of the Place.</p>
+               <p n="3">3 <hi>Lisbon,</hi> Inſtituted about the year 1290. and Con<g ref="char:EOLhyphen"/>firmed by Pope <hi>Nicholas</hi> the IV.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>Vniverſities</hi> of <hi>Spain</hi> are 17.</head>
+               <p n="1">1 <hi>ALcalaneres de Henecros,</hi> in Latin <hi>Complutum,</hi> Founded by <hi>Francis Ximenes,</hi> Cardinal and Arch-biſhop of <hi>Toledo,</hi> in the Reign of <hi>Ferdinand</hi> the Catholick.</p>
+               <p n="2">2. <hi>Compoſtella,</hi> or St. <hi>Jago,</hi> famous for the Pilgrima<g ref="char:EOLhyphen"/>ges to St. <hi>Jago</hi>'s Tomb, who is ſaid to be Buried here.</p>
+               <p n="3">3 <hi>Granada,</hi> made an Univerſity, by the Emperor <hi>Charles</hi> the V. 1537.</p>
+               <p n="4">4 <hi>Lerida</hi> of great Antiquity: <hi>Caliſtus</hi> the III. was here publick Profeſſor of the Civil Law.</p>
+               <p n="5">5 <hi>Ognate,</hi> about the year 1543.</p>
+               <p n="6">6 <hi>Hueſca,</hi> called of Old <hi>Oſca.</hi> Here it was that <hi>Sertorius</hi> ſent the Noble mens Sons to be Educated, ſome years before <hi>Christ.</hi>
+               </p>
+               <p n="7">7 <hi>Majorca,</hi> called <hi>Academia Lulliana,</hi> from their Veneration of <hi>Raymond Lullias,</hi> a Native of this Place.</p>
+               <p n="8">8 <hi>Oſſuna,</hi> began in the year 1549.</p>
+               <p n="9">9 <hi>Pampelona,</hi> was Founded 1608.</p>
+               <p n="10">10 <hi>Salamanca,</hi> the moſt famous Univerſity of <hi>Spain,</hi> eſpecially for the ſtudy of the Civil and Canon Laws. Firſt Inſtituted by <hi>Ferdinand</hi> the II. of <hi>Castile,</hi> 240. who tranſlated the Univerſity of <hi>Palenza</hi> hither.</p>
+               <p n="11">11 <hi>Siguenſa,</hi> Founded by <hi>Francis</hi> Cardinal <hi>Ximines.</hi>
+               </p>
+               <p n="12">12 <hi>Toledo,</hi> Founded by an Arch-biſhop of <hi>Toledo,</hi> in the year 1499.</p>
+               <p n="13">13 <hi>Sevil</hi> a moſt ancient Univerſity: Here Pope <hi>Silveſter</hi> the II. flouriſhed about 580. <hi>Diego</hi> Son of <hi>Chriſtopher Columbus</hi> furniſhed the Library there with 12000 Volumes in ſeveral Languages.</p>
+               <p n="14">14 <hi>Sarragoſſa,</hi> began in the Reign of the Emperor <hi>Charles</hi> the V.</p>
+               <p n="15">15 <hi>Tudela,</hi> Founded by <hi>Ferdinand</hi> the Catholick.</p>
+               <p n="16">16 <hi>Valentia,</hi> founded 1470. in which St. <hi>Dominick</hi> Studied.</p>
+               <p n="17">17. <hi>
+                     <g ref="char:V">Ʋ</g>alladolid.</hi> one of the ancienteſt Univerſities of <hi>Spain,</hi> was reſtor'd by <hi>Philip</hi> the II. whoſe Birth-place it was; who founded here an <hi>Engliſh</hi> Seminary.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sicily</hi> hath 2 <hi>Vniverſities.</hi>
+               </head>
+               <p n="1">1 <hi>CAtanea.</hi>
+               </p>
+               <p n="2">2 <hi>Palermo.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sileſia</hi> hath but one <hi>Vniverſiry</hi>
+               </head>
+               <p>
+                  <hi>BRESLAW,</hi> 1503.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Sweden</hi> hath 4 <hi>Vniverſities.</hi>
+               </head>
+               <p n="1">1 <hi>ABo</hi> in <hi>Finland.</hi> in 1640. by Queen <hi>Christina.</hi>
+               </p>
+               <p n="2">2 <hi>Derpt</hi> in <hi>Livonia,</hi> 1632. by <hi>Gustav. Adolphus.</hi>
+               </p>
+               <p n="3">3 <hi>Lunden</hi> in <hi>Schonen.</hi>
+               </p>
+               <p n="4">4 <hi>
+                     <g ref="char:V">Ʋ</g>pſal</hi> a very Ancient Univerſity.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Switzerland</hi> hath 2 <hi>Vnirerſities.</hi>
+               </head>
+               <p n="1">1 <hi>BAſel</hi> was founded by Pope <hi>Pius</hi> II. about 1460.</p>
+               <p n="2">2 <hi>Geneva</hi> founded by the Emp. <hi>Charles</hi> IV 1365.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Tranſilvania</hi> hath but one <hi>Vniverſity.</hi>
+               </head>
+               <p>
+                  <hi>WEſiemberg Alba Julia</hi> made an Univerſity of late, by <hi>George Ragotzwagwod</hi> of <hi>Tranſilvania.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed and Publiſhed by <hi>George Croom,</hi> for <hi>J. Weld,</hi> at the <hi>Crown</hi> in <hi>Fleet-ſtreet,</hi> near <hi>Temple-Bar.</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
